@@ -1,4 +1,5 @@
-## Hi there 👋
+## C++/DL engineer
+Senior software engineer with 8 years of commercial experience in low-level and deep learning projects. Worked in team of 6 people as well as solo developer. Built full cycle of development from getting product owner requirements to setting complete market making strategy from scratch. Built numerous web-based visualizations using WebGL frameworks three.js and sigma.js
 
 <!--
 **misssglory/misssglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
